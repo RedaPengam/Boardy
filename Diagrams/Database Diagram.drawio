@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T12:00:17.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="_ClM7AhzApRlb69WXToI" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T12:09:12.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="tHaKXV3Ns1pjaBYdv8cE" version="14.7.3" type="github">
   <diagram id="-n1arLx0iRGlMLNnjugE" name="Page-1">
     <mxGraphModel dx="542" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -143,8 +143,11 @@
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ACFRyJSHy_dvtxBTFt1p-26" value="nom" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="pl6TtcTqllOGitY4xwyM-73" vertex="1">
+        <mxCell id="QxzkqFz1B4wAn89MGKf5-2" value="id_role" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontStyle=4" vertex="1" parent="pl6TtcTqllOGitY4xwyM-73">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ACFRyJSHy_dvtxBTFt1p-26" value="nom" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="pl6TtcTqllOGitY4xwyM-73" vertex="1">
+          <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0t-bIoam6GR97GpR1H8l-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="pl6TtcTqllOGitY4xwyM-75" target="pl6TtcTqllOGitY4xwyM-8" edge="1">
           <mxGeometry relative="1" as="geometry">
