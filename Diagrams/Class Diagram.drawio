@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T08:24:06.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5ikEp4sL-IlnE9fu_ypc" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T09:30:34.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="fEgtOLLxmTL5tUsAulGt" version="14.7.6" type="github">
   <diagram id="-n1arLx0iRGlMLNnjugE" name="Page-1">
     <mxGraphModel dx="1579" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -462,7 +462,7 @@
         <mxCell id="JzBHW4FEwulDmY83Kbxp-6" value="id_group: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="JzBHW4FEwulDmY83Kbxp-5" vertex="1">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="JzBHW4FEwulDmY83Kbxp-7" value="nom: string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="JzBHW4FEwulDmY83Kbxp-5" vertex="1">
+        <mxCell id="JzBHW4FEwulDmY83Kbxp-7" value="name: string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="JzBHW4FEwulDmY83Kbxp-5" vertex="1">
           <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JzBHW4FEwulDmY83Kbxp-8" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="JzBHW4FEwulDmY83Kbxp-5" vertex="1">
