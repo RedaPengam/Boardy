@@ -3,8 +3,8 @@
 ## Dépendances
 
 Pour pouvoir lancer l'application il faut une ou deux machines (client et serveur).
-Dans la machine client doit être installé le gestionnaire de packages `npm`.
-Dans la machine serveur (Debian APACHE) doit être installé le package `LAMP`.
+- Dans la machine client doit être installé le gestionnaire de packages `npm`.
+- Dans la machine serveur (Debian APACHE) doit être installé le package `LAMP`, ainsi que la base de données `boardy.sql`.
 
 ## Organisation du projet
 
@@ -20,5 +20,5 @@ L'application se décompose en deux répertoires : un répertoire Frontend #1 et
 ## Lancement de l'application
 
 Pour se faire, il faut se placer dans le répertoire `react-taskboard` et effectuer la commande `npm run start`.
-![image](https://user-images.githubusercontent.com/71394086/131320934-c8b1ddd6-bde4-4d24-b594-1fa97088e528.png)
+- ![image](https://user-images.githubusercontent.com/71394086/131320934-c8b1ddd6-bde4-4d24-b594-1fa97088e528.png)
 
