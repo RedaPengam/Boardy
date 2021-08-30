@@ -17,3 +17,8 @@ L'application se décompose en deux répertoires : un répertoire Frontend #1 et
 #2 Arborescence du BACKEND
 - ![image](https://user-images.githubusercontent.com/71394086/131320162-43f29dfc-7b0e-4667-bc86-27eec759b969.png)
 
+## Lancement de l'application
+
+Pour se faire, il faut se placer dans le répertoire `react-taskboard` et effectuer la commande `npm run start`.
+![image](https://user-images.githubusercontent.com/71394086/131320934-c8b1ddd6-bde4-4d24-b594-1fa97088e528.png)
+
