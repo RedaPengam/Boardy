@@ -21,4 +21,6 @@ L'application se décompose en deux répertoires : un répertoire Frontend #1 et
 
 Pour se faire, il faut se placer dans le répertoire `react-taskboard` et effectuer la commande `npm run start`.
 - ![image](https://user-images.githubusercontent.com/71394086/131320934-c8b1ddd6-bde4-4d24-b594-1fa97088e528.png)
+- L'appli se lance alors sur l'adresse locale ![image](https://user-images.githubusercontent.com/71394086/131321976-f102be4c-7c67-41b6-9a21-8f0bfba525ce.png)
+
 
