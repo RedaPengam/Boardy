@@ -29,7 +29,7 @@ L'application se décompose en deux répertoires : un répertoire *frontend* et 
 
 Afin d'obtenir la même arborescence que présentée précédemment pour la partie frontend, il faut dans un premier temps se situer dans un répertoire arbitraire sur la machine frontend (à titre d'exemple, dans les screenshots précédents le répertoire initial est `apaches.stage-reda-taskboard`).
 Depuis l'invite de commande lancé dans le répertoire choisi, il faut créer l'application React en utilisant la commande `npx create-react-app react-taskboard`.
-Cette action va créer l'application React de base avec le dossier `node_modules` non présent dans ce repo git pour son poids.
+Cette action va créer l'application React de base avec le dossier `node_modules` non présent dans ce repo git du fait de son poids conséquent.
 
 ## Lancement de l'application
 
