@@ -11,6 +11,7 @@ Dans le cadre de mon stage de L3 à l'IMT Nord Europe, j'ai développé une appl
 Pour pouvoir lancer l'application il faut une ou deux machines (client et serveur).
 - Dans la machine client doit être installé le gestionnaire de packages `npm`.
 - Dans la machine serveur (Debian APACHE) doit être installé le package `LAMP`, ainsi que la base de données `boardy.sql`.
+Pour de plus amples détails, les dépendances de la machine client sont listées dans le fichier `Boardy/Frontend/react-taskboard/package.json`
 
 ## Organisation du projet
 
@@ -27,7 +28,8 @@ L'application se décompose en deux répertoires : un répertoire *frontend* et 
 
 ## Installation
 
-Afin d'obtenir la même arborescence que présentée précédemment pour la partie frontend, il faut dans un premier temps se situer dans un répertoire arbitraire sur la machine frontend (à titre d'exemple, dans les screenshots précédents le répertoire initial est `apaches.stage-reda-taskboard`).
+Afin d'obtenir la même arborescence que présentée précédemment pour la partie frontend, il faut dans un premier temps se situer dans un répertoire arbitraire sur la machine frontend. 
+A titre d'exemple, dans les screenshots précédents le répertoire initial est `apaches.stage-reda-taskboard`.
 Depuis l'invite de commande lancé dans le répertoire choisi, il faut créer l'application React en utilisant la commande `npx create-react-app react-taskboard`.
 Cette action va créer l'application React de base avec le dossier `node_modules` non présent dans ce repo git du fait de son poids conséquent.
 
