@@ -1,5 +1,9 @@
 # Boardy
 
+## Visuel
+- ![Screenshot_20210822_163711](https://user-images.githubusercontent.com/71394086/162967770-e83b22da-5e9a-48a6-a09e-5f4b870942a5.png)
+- ![Screenshot_20210822_170315](https://user-images.githubusercontent.com/71394086/162967869-cd0f43ec-c0f6-4339-a8aa-d9e5e7324927.png)
+
 ## Dépendances
 
 Pour pouvoir lancer l'application il faut une ou deux machines (client et serveur).
