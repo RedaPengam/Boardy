@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "mail": "reda.pengam@etu.imt-lille-douai.fr",
+      "firstname": "Reda",
+      "lastname": "Pengam",
+      "quality": "student",
+      "password": "123",
+      "online": true
+    },
+    {
+      "id": 2,
+      "mail": "mathieu.vermeulen@etu.imt-lille-douai.fr",
+      "firstname": "Mathieu",
+      "lastname": "Vermeulen",
+      "quality": "teacher",
+      "password": "1239",
+      "online": false
+    },
+    {
+      "id": 3,
+      "mail": "alexis.lebis@etu.imt-lille-douai.fr",
+      "firstname": "Alexis",
+      "lastname": "Lebis",
+      "quality": "teacher",
+      "password": "1539",
+      "online": true
+    },
+    {
+      "id": 4,
+      "mail": "isaac.newton@etu.imt-lille-douai.fr",
+      "firstname": "Isaac",
+      "lastname": "Newton",
+      "quality": "teacher",
+      "password": "1239",
+      "online": false
+    }
+  ],
+  "planningBoards": [
+    {
+      "id": 1,
+      "title": "z",
+      "color": "#000000",
+      "columnNumber": "3"
+    }
+  ],
+  "columns": [
+    {
+      "id": 2,
+      "id_PB": 1,
+      "title": "Période 1",
+      "color": "#000000",
+      "columnTimescale": "3"
+    },
+    {
+      "id": 3,
+      "id_PB": 1,
+      "title": "Période 2",
+      "color": "#000000",
+      "columnTimescale": "3"
+    },
+    {
+      "id": 4,
+      "id_PB": 1,
+      "title": "Période 3",
+      "color": "#000000",
+      "columnTimescale": "3"
+    },
+    {
+      "id": 5,
+      "id_PB": 1,
+      "title": "Période 4",
+      "color": "#000000",
+      "columnTimescale": "4"
+    }
+  ],
+  "stickers": [],
+  "userStoryBoards": [],
+  "labels": []
+}
