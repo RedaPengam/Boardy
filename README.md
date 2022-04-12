@@ -31,7 +31,7 @@ Pour se faire, il faut se placer dans le répertoire `react-taskboard` et effect
 
 ![image](https://user-images.githubusercontent.com/71394086/131320934-c8b1ddd6-bde4-4d24-b594-1fa97088e528.png)
 
-L'appli se lance alors dans le navigateur choisi sur l'adresse locale 
+L'appli se lance alors dans le navigateur choisi sur l'adresse locale :
 
 ![image](https://user-images.githubusercontent.com/71394086/131321976-f102be4c-7c67-41b6-9a21-8f0bfba525ce.png)
 
