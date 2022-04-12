@@ -9,9 +9,8 @@ Dans le cadre de mon stage de L3 à l'IMT Nord Europe, j'ai développé une appl
 ## Dépendances
 
 Pour pouvoir lancer l'application il faut une ou deux machines (client et serveur).
-- Dans la machine client doit être installé le gestionnaire de packages `npm`.
+- Dans la machine client doit être installé le gestionnaire de packages `npm`. Pour de plus amples détails, les dépendances de la machine client sont listées dans le fichier `Boardy/Frontend/react-taskboard/package.json`
 - Dans la machine serveur (Debian APACHE) doit être installé le package `LAMP`, ainsi que la base de données `boardy.sql`.
-Pour de plus amples détails, les dépendances de la machine client sont listées dans le fichier `Boardy/Frontend/react-taskboard/package.json`
 
 ## Organisation du projet
 
