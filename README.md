@@ -1,6 +1,6 @@
 # Boardy
 
-Dans le cadre de mon stage de L3, j'ai développé une application Web de taskboard utile pour la gestion de gestion de projet via les méthodes agiles.
+Dans le cadre de mon stage de L3 à l'IMT Nord Europe, j'ai développé une application Web de taskboarding utile pour la gestion de projets utilisant les méthodes agiles.
 
 ## Visuel
 ![image](https://user-images.githubusercontent.com/71394086/162967770-e83b22da-5e9a-48a6-a09e-5f4b870942a5.png)
