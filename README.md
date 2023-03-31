@@ -2,9 +2,10 @@
 
 Dans le cadre de mon stage de L3 à l'IMT Nord Europe, j'ai développé une application Web de taskboarding utile pour la gestion de projets utilisant les méthodes agiles.
 
-## Visuel
-![image](https://user-images.githubusercontent.com/71394086/162967770-e83b22da-5e9a-48a6-a09e-5f4b870942a5.png)
-![image](https://user-images.githubusercontent.com/71394086/162967869-cd0f43ec-c0f6-4339-a8aa-d9e5e7324927.png)
+![Capture d'écran 2023-03-31 141122](https://user-images.githubusercontent.com/71394086/229117035-e4d34147-d566-4132-8eec-8942eb960eff.png)
+![Capture d'écran 2023-03-31 141140](https://user-images.githubusercontent.com/71394086/229117022-ffdc2959-3853-4501-a0cd-51d5a700e53d.png)
+![Capture d'écran 2023-03-31 141153](https://user-images.githubusercontent.com/71394086/229116984-298cff02-dc7a-437a-ae61-8af5ed99b56e.png)
+![Capture d'écran 2023-03-31 141204](https://user-images.githubusercontent.com/71394086/229116884-84dff951-18f2-48d6-989f-5b04654f6246.png)
 
 ## Dépendances
 
